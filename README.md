@@ -14,5 +14,5 @@ Just a demo on how to create a simple interactive plot using streamlit by using 
 
 ```python
 pip install --upgrade streamlit
-streamlit run https://github.com/Abhijith6566/Streamlit-app-Online-Education-Survey/blob/main/app.py
+streamlit run https://github.com/Abhijith6566/Streamlit-app-Online-Education/blob/main/app.py
 ```
