@@ -7,7 +7,7 @@ Just a demo on how to create a simple interactive plot using streamlit by using 
 
 ## Streamlit-app link
 
-[click here]('https://share.streamlit.io/abhijith6566/streamlit-app-online-education-survey/main/app.py')
+[click here](https://share.streamlit.io/abhijith6566/streamlit-app-online-education-survey/main/app.py)
 
 
 ## Run this demo locally
