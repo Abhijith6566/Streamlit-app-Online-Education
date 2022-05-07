@@ -4,5 +4,5 @@
 
 ```python
 pip install --upgrade streamlit
-streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/main/streamlit_app.py
+streamlit run https://github.com/Abhijith6566/Streamlit-app-Online-Education-Survey/blob/main/app.py
 ```
