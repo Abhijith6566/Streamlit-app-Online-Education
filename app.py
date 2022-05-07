@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 
-st.set_page_config(page_title='Online Education Survey', page_icon=":bar_chart:",layout="wide")
+st.set_page_config(page_title='Online Education Survey',layout="wide")
 
 df= pd.read_csv('online_education_survey.csv')
 
