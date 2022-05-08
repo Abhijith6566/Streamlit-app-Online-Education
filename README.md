@@ -12,7 +12,7 @@ Just a demo on how to create a simple interactive plot using streamlit by using 
 
 ## Run this demo locally
 
-```python
-pip install --upgrade streamlit
-streamlit run https://github.com/Abhijith6566/Streamlit-app-Online-Education/blob/main/app.py
-```
+1. Download all contents in the folder Application.
+2.  Open app.py Install all required packages using requirements.txt
+3. If your working directory is the same folder in which app.py is , run the app.py using command streamlit run app.py in your terminal.
+
